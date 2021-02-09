@@ -1,0 +1,19 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1,h2,h3 {
+    color: burlywood;
+}
+
+/* h3 {
+    color: royalblue;
+} */
+
+hr {
+    background-color: antiquewhite;
+    border-color: burlywood;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 20%;
+}
